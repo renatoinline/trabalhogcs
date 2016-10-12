@@ -1,5 +1,4 @@
-package br.com.trabalhogcs.util;
-
+package trabalhogcs;
 public class Matematica {
 		
 	public int somatorio(int... values) {

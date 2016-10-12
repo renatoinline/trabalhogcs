@@ -1,8 +1,8 @@
-package br.com.trabalhogcs.util;
-
+package trabalhogcs.teste;
 import static org.junit.Assert.*;
-
 import org.junit.*;
+
+import trabalhogcs.Matematica;
 
 public class MatematicaTest {
 

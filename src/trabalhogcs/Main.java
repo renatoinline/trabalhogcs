@@ -1,6 +1,4 @@
-package br.com.trabalhogcs.main;
-
-import br.com.trabalhogcs.util.Matematica;
+package trabalhogcs;
 
 public class Main {
 
